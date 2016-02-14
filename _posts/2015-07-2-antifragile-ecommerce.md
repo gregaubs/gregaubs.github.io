@@ -15,7 +15,8 @@ But what if things were antifragile? Such things would *prosper* the more they w
 
 It's an intriguing thought, and it got me thinking of how this would apply to ecommerce. I came up with the following example. 
 
-###Fragile Inc.###
+Fragile Inc.
+--------------
 Things at Fragile Inc. have not been going well. Customer satisfaction has hit the floor, while customer complaints have hit the roof. Consultants are duly brought in and they find things in an alarming state of affairs. <br>
 They find that there aren't any staff reponsible for handling customer enquiries. Instead, enquiries go into a big inbox and are dealt with by junior marketing executives who are balancing a number of other tasks. Its constant firefighting. And when a surge of enquiries come in, like it did at Christmas, a lot simply go answered. This leads to lower conversion rates and a number of purchasers getting confused and ordering the wrong item. They start leaving bad reviews, some of which are becoming visible in search results.  Organic traffic has been steadily decreasing. 
 
@@ -29,7 +30,7 @@ He proudly tells them the newly created department hired designated customer ser
 This company is **robust**. Whatever the environment throws at it, Robust.Inc can take. As customer enquiries increase, it has processes to expand their capacity to deal with it.
 
 ###Antifragile Inc.
-In a co-working space nearby, a group of people are hard at work. Their room is mostly quiet apart from the fast, assured tapping on their MacBook Air keyboards. The aroma of expensive coffee is ever-present. This is Antifragile Inc. - the upstarts - the new kids of the block.  And they've causing a stir with their fast progress and exponential growth. 
+In a co-working space nearby, a group of people are hard at work. Their room is mostly quiet apart from the fast, assured tapping on their MacBook Air keyboards. The aroma of expensive coffee is ever-present. This is Antifragile Inc. - the upstarts - the new kids of the block.  And they're causing a stir with their fast progress and exponential growth. 
 
 These guys saw the work Robust Inc. did with their customer service department last year and were quick to match it. But they added something extra. They initiated a process where every week, each customer service agent would write up a list of the top 3 most important queries they dealt with. These lists then get passed to the content marketing executives. The executives then add them to the FAQ section of the site, and also convert anything notable into blog posts.  The blog posts are SEO optimised for the keywords customers are using to search for answers. Over the past year since this began, Antifragile Inc. has built up significant longtail search traffic as a result. Moreoever, conversion rates have increased too as the FAQ has become richer. And what's really exciting the team is that they've seen the ratio of customer queries to traffic fall, as their site has added so much more useful content. 
 
